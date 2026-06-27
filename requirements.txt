@@ -1,0 +1,13 @@
+langchain
+chromadb
+faiss-cpu
+sentence-transformers
+openai
+ragas
+fastapi
+streamlit
+pypdf
+python-docx
+rank-bm25
+uvicorn
+pydantic
